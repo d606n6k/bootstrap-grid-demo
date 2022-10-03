@@ -1,5 +1,9 @@
 /* Custom Styles */
 
+/* Container */
+.my-container-bg{
+    background-color: rgb(124, 124, 124);
+}
 /* Workboxes */
 .work-box-1 {
   background-color: salmon;
